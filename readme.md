@@ -51,3 +51,8 @@ Pull requests and issue reports are welcome. Please run `npm run lint` and `npm 
 
 ## License
 This project is released under the MIT License unless otherwise specified in the repository.
+
+## Contributors
+Thanks to all who have contributed to this project!
+
+- [@rbayuokt](https://github.com/rbayuokt)
